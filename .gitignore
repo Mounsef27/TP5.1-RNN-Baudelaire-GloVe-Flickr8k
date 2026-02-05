@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Outputs / models
+*.p
+*.h5
+*.yaml
+
+# Figures
+*.png
+
+# Data lourdes (à ne pas pousser)
+data/glove*.txt
+data/fleurs_mal.txt
+data/flickr_8k_train_dataset.txt
+data/Flickr8k_Dataset/
+data/Flicker8k_Dataset/
